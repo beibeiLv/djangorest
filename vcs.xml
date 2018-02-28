@@ -6,8 +6,12 @@
           <option name="url" value="C:\gitsource\introduction_to_ml_with_python" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/beibeiLv/djangorest.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\belv\PycharmProjects" />
+    <option name="cloneParentDir" value="C:\Users\belv\djangorest" />
   </component>
 </application>
